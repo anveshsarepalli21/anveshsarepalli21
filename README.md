@@ -1,6 +1,6 @@
 #  Hi, I'm Anvesh Sarepalli  
 
- Data Science Graduate | Python • SQL • Machine Learning • Data Engineering  
+ Data Science Graduate | Python • SQL • Machine Learning • 
 
 I love turning raw data into insights by building models, automating workflows, and designing dashboards.  
 Here you’ll find my projects in data science, ML, and analytics.  
