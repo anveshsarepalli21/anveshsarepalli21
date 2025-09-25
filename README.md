@@ -22,7 +22,7 @@ Here you’ll find my projects in data science, ML, and analytics.
 - **Languages/Tools:** Python, SQL, R, MATLAB  
 - **Libraries/ML:** Pandas, NumPy, scikit-learn, TensorFlow/Keras, Statsmodels, XGBoost  
 - **Data Engineering:** ETL Pipelines, BigQuery, Docker, Flask  
-- **Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
+- **Visualization:** Tableau,Matplotlib, Seaborn  
 
 ---
 
