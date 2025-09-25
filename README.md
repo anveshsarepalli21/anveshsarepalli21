@@ -9,7 +9,8 @@ Here you’ll find my projects in data science, ML, and analytics.
 
 ## Featured Projects
 - [Climate Anomaly Detection](https://github.com/anveshsarepalli21/climate-anomaly-detection) – PCA vs Dictionary Learning for anomaly detection on climate data
-- [Used Car Price Prediction](https://github.com/anveshsarepalli21/used-car-price-prediction) – Regression models with feature engineering 
+- [Used Car Price Prediction](https://github.com/anveshsarepalli21/used-car-price-prediction) – Regression models with feature engineering
+- [HRIS-Dashboard](https://github.com/anveshsarepalli21/HRIS-Dashboard)- HR analytics system with KPIs (Time-to-Fill, Recruiting Funnel, Payroll Mismatch) and visual dashboards built using Python & Pandas
 <!-- - [Stock Price Prediction](https://github.com/anveshsarepalli21/stock-price-prediction) – ARIMA, GARCH, and KNN models to forecast Google stock -->
 <!-- - [MNIST Digit Classifier](https://github.com/anveshsarepalli21/mnist-digit-classifier) – CNN-based digit recognition (0–9) -->
 <!--  - [Spotify Data Engineering](https://github.com/anveshsarepalli21/spotify-data-engineering) – ETL pipeline into BigQuery with dashboards -->
