@@ -1,29 +1,53 @@
-#  Hi, I'm Anvesh Sarepalli  
+# Hi, I'm Anvesh Sarepalli  
 
- Data Science Graduate | Python • SQL • Machine Learning 
+Data Science Graduate | Python • SQL • Machine Learning 
 
-I love turning raw data into insights by building models, automating workflows, and designing dashboards.  
-Here you’ll find my projects in data science, ML, and analytics.  
-
----
-
-## Featured Projects
-- [Climate Anomaly Detection](https://github.com/anveshsarepalli21/climate-anomaly-detection) – PCA vs Dictionary Learning for anomaly detection on climate data
-- [Used Car Price Prediction](https://github.com/anveshsarepalli21/used-car-price-prediction) – Regression models with feature engineering
-- [HRIS-Dashboard](https://github.com/anveshsarepalli21/HRIS-Dashboard)- HR analytics system with KPIs (Time-to-Fill, Recruiting Funnel, Payroll Mismatch) and visual dashboards built using Python & Pandas
-<!-- - [Stock Price Prediction](https://github.com/anveshsarepalli21/stock-price-prediction) – ARIMA, GARCH, and KNN models to forecast Google stock -->
-<!-- - [MNIST Digit Classifier](https://github.com/anveshsarepalli21/mnist-digit-classifier) – CNN-based digit recognition (0–9) -->
-<!--  - [Spotify Data Engineering](https://github.com/anveshsarepalli21/spotify-data-engineering) – ETL pipeline into BigQuery with dashboards -->
- <!-- - [HRIS Analytics](https://github.com/anveshsarepalli21/hris-analytics) – Business-focused analytics for recruitment processes -->
+I focus on turning raw data into insights by building models, automating workflows, and designing dashboards. Here you’ll find my projects in data science, machine learning, and analytics.  
 
 ---
 
-##  Skills
-- **Languages/Tools:** Python, SQL, R, MATLAB  
-- **Libraries/ML:** Pandas, NumPy, scikit-learn, TensorFlow/Keras, Statsmodels, XGBoost  
-- **Data Engineering:** ETL Pipelines, BigQuery, Docker, Flask  
-- **Visualization:** Tableau,Matplotlib, Seaborn  
+## Featured Projects  
+
+- [**Climate Anomaly Detection**](https://github.com/anveshsarepalli21/climate-anomaly-detection)  
+  Comparative study of PCA vs Dictionary Learning on century-long climate anomaly data, with forecasting using Linear Regression and XGBoost.  
+
+- [**Used Car Price Prediction**](https://github.com/anveshsarepalli21/used-car-price-prediction)  
+  Regression models (Linear, Ridge) with feature engineering for mileage, age, and engine size.  
+
+- [**HRIS Dashboard**](https://github.com/anveshsarepalli21/HRIS-Dashboard)  
+  HR analytics system tracking KPIs (Time-to-Fill, Recruiting Funnel, Payroll Mismatch), built with Python, Pandas, and interactive dashboards.  
+
+<!-- Future Projects (uncomment when ready to showcase) -->
+<!--
+- [Stock Price Prediction](https://github.com/anveshsarepalli21/stock-price-prediction) – Time series forecasting of Google stock prices using ARIMA, GARCH, and KNN.  
+- [MNIST Digit Classifier](https://github.com/anveshsarepalli21/mnist-digit-classifier) – Deep learning CNN model for handwritten digit recognition (0–9).  
+- [Spotify Data Engineering](https://github.com/anveshsarepalli21/spotify-data-engineering) – ETL pipeline for Spotify streaming data into BigQuery with dashboards.  
+- [HRIS Analytics](https://github.com/anveshsarepalli21/hris-analytics) – Business-focused analytics for recruitment and workforce performance.  
+-->
 
 ---
 
- **Reach me:** [LinkedIn](https://linkedin.com/in/shanmukh-anvesh-sarepalli) · [Email](mailto:asarepalli01@gmail.com)  
+## Skills  
+
+**Languages & Tools**  
+Python, SQL, R, MATLAB  
+
+**Libraries / ML Frameworks**  
+Pandas, NumPy, scikit-learn, TensorFlow/Keras, Statsmodels, XGBoost  
+
+**Data Engineering & Cloud**  
+ETL Pipelines, BigQuery, Docker, Flask, AWS (S3, Glue)  
+
+**Visualization & BI Tools**  
+Tableau, Power BI, Matplotlib, Seaborn  
+
+---
+
+## Contact  
+
+- [LinkedIn](https://linkedin.com/in/shanmukh-anvesh-sarepalli)  
+- [Email](mailto:asarepalli01@gmail.com)  
+
+---
+
+*Always exploring new ways to combine data, engineering, and machine learning for impactful solutions.*
