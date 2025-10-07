@@ -16,8 +16,8 @@ I focus on turning raw data into insights by building models, automating workflo
 
 - [**HRIS Dashboard**](https://github.com/anveshsarepalli21/HRIS-Dashboard)  
   HR analytics system tracking KPIs (Time-to-Fill, Recruiting Funnel, Payroll Mismatch), built with Python, Pandas, and interactive dashboards.
-
-  - [**HRIS Dashboard**](https://github.com/anveshsarepalli21/HRIS-Dashboard)  
+  
+- [**HRIS Dashboard**](https://github.com/anveshsarepalli21/HRIS-Dashboard)  
   HR analytics system tracking KPIs (Time-to-Fill, Recruiting Funnel, Payroll Mismatch), built with Python, Pandas, and interactive dashboards. 
 
 <!-- Future Projects (uncomment when ready to showcase) -->
