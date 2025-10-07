@@ -17,8 +17,8 @@ I focus on turning raw data into insights by building models, automating workflo
 - [**HRIS Dashboard**](https://github.com/anveshsarepalli21/HRIS-Dashboard)  
   HR analytics system tracking KPIs (Time-to-Fill, Recruiting Funnel, Payroll Mismatch), built with Python, Pandas, and interactive dashboards.
   
-- [**HRIS Dashboard**](https://github.com/anveshsarepalli21/HRIS-Dashboard)  
-  HR analytics system tracking KPIs (Time-to-Fill, Recruiting Funnel, Payroll Mismatch), built with Python, Pandas, and interactive dashboards. 
+- [**Global_Job_Market_Insights_2024-Tableau**](https://github.com/anveshsarepalli21/Global_Job_Market_Insights_2024-Tableau-)  
+  An interactive Tableau dashboard built using Python-cleaned job market data to analyze global hiring trends, salary patterns, top in-demand skills, and remote-work distribution.
 
 <!-- Future Projects (uncomment when ready to showcase) -->
 <!--
