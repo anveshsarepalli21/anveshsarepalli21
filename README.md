@@ -15,7 +15,10 @@ I focus on turning raw data into insights by building models, automating workflo
   Regression models (Linear, Ridge) with feature engineering for mileage, age, and engine size.  
 
 - [**HRIS Dashboard**](https://github.com/anveshsarepalli21/HRIS-Dashboard)  
-  HR analytics system tracking KPIs (Time-to-Fill, Recruiting Funnel, Payroll Mismatch), built with Python, Pandas, and interactive dashboards.  
+  HR analytics system tracking KPIs (Time-to-Fill, Recruiting Funnel, Payroll Mismatch), built with Python, Pandas, and interactive dashboards.
+
+  - [**HRIS Dashboard**](https://github.com/anveshsarepalli21/HRIS-Dashboard)  
+  HR analytics system tracking KPIs (Time-to-Fill, Recruiting Funnel, Payroll Mismatch), built with Python, Pandas, and interactive dashboards. 
 
 <!-- Future Projects (uncomment when ready to showcase) -->
 <!--
